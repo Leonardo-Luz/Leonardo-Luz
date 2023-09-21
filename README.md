@@ -1,4 +1,4 @@
-<div align ="left">
+<div align ="center">
 
   # 📊 GitHub Stats:
 
