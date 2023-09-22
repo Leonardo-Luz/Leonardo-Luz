@@ -6,6 +6,6 @@
 
   <img height="180px" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false"></img>
 
-  <img height="180px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Luz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></img>
+  <img height="180px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Luz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
 
 </div>
