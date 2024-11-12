@@ -12,7 +12,7 @@
   [![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dev_luz)
 
 
-  ## 📊 GitHub Stats
+  ## GitHub Stats
 
   <img 
     height="130px" 
