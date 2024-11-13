@@ -25,8 +25,6 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false/"
   />
    
- <!-- &title_color=000 - &bg_color=1bb128,1bb17d,1b60b1 - &text_color=000 -->  
-
 ## Some tecnologies that i use
 
   <img src="./src/svgs/tecnologies.svg" alt="tecnologies" />
