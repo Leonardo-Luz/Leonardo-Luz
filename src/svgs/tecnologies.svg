@@ -23,14 +23,12 @@
 			}
 
 			.tec-title {
+				color: white;
 				width: 50%;
 				text-align: right;
 			}
 
 			.tec-container {
-				width: 50%;
-				max-width: 50%;
-
 				display: flex;
 				flex-direction: row;
 
