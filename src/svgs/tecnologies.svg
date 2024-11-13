@@ -44,10 +44,10 @@
 			<p class="tec-title">Editors</p>
 			<div class="tec-container">
 			    <svg width="50" height="50">
-				<image href="https://img.shields.io/badge/NeoVim-%2357A143.svg?&amp;style=for-the-badge&amp;logo=neovim&amp;logoColor=white" width="50" height="50" />
+				<image href="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" width="50" height="50" />
 			    </svg>
 			    <svg width="50" height="50">
-				<image href="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" width="50" height="50" />
+				<image href="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="50" height="50" />
 			    </svg>
 			</div>
 		</div>
