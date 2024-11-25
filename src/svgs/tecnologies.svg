@@ -9,8 +9,14 @@
 
 				align-self: center;
 				justify-content: center;
+
+				color: black;
 			}
 
+			@media (prefers-color-scheme: dark) {
+				.body { color: white; }
+			}
+			
 			.container {
 				width: 100%;
 				display: flex;
@@ -24,7 +30,6 @@
 
 			.tec-title {
 				width: 49%;
-				color: white;
 				text-align: right;
 
 				font-family: Verdana,Geneva,DejaVu Sans,sans-serif;
