@@ -56,10 +56,10 @@
 			<p class="tec-title">EDITORS</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.5" height="28" role="img" aria-label="NEOVIM">
-					<image href="./badges/neovim.svg"/>
+					<image xlink:href="./badges/neovim.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170.5" height="28" role="img" aria-label="VISUAL STUDIO CODE">
-					<image href="./badges/vsc.svg"/>
+					<image xlink:href="./badges/vsc.svg"/>
 				</svg>
 			</div>
 		</div>
@@ -68,28 +68,28 @@
 			<p class="tec-title">PROGRAMMING LANGUAGES</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69.75" height="28" role="img" aria-label="LUA">
-					<image href="./badges/lua.svg"/>
+					<image xlink:href="./badges/lua.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126.5" height="28" role="img" aria-label="JAVASCRIPT">
-					<image href="./badges/javascript.svg"/>
+					<image xlink:href="./badges/javascript.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="28" role="img" aria-label="JAVA">
-					<image href="./badges/java.svg"/>
+					<image xlink:href="./badges/java.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.25" height="28" role="img" aria-label="C">
-					<image href="./badges/c.svg"/>
+					<image xlink:href="./badges/c.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41.5" height="28" role="img" aria-label="C#">
-					<image href="./badges/csharp.svg"/>
+					<image xlink:href="./badges/csharp.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126.5" height="28" role="img" aria-label="TYPESCRIPT">
-					<image href="./badges/typescript.svg"/>
+					<image xlink:href="./badges/typescript.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.5" height="28" role="img" aria-label="GO">
-					<image href="./badges/go.svg"/>
+					<image xlink:href="./badges/go.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.5" height="28" role="img" aria-label="PYTHON">
-					<image href="./badges/python.svg"/>
+					<image xlink:href="./badges/python.svg"/>
 				</svg>
 			</div>
 		</div>
@@ -98,10 +98,10 @@
 			<p class="tec-title">MARKUP LANGUAGES</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="123" height="28" role="img" aria-label="MARKDOWN">
-					<image href="./badges/markdown.svg"/>
+					<image xlink:href="./badges/markdown.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88.25" height="28" role="img" aria-label="HTML5">
-					<image href="./badges/html.svg"/>
+					<image xlink:href="./badges/html.svg"/>
 				</svg>
 			</div>
 		</div>
@@ -110,13 +110,13 @@
 			<p class="tec-title">FRAMEWORKS</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122.5" height="28" role="img" aria-label="EXPRESS.JS">
-					<image href="./badges/express.svg"/>
+					<image xlink:href="./badges/express.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.25" height="28" role="img" aria-label="REACT">
-					<image href="./badges/react.svg"/>
+					<image xlink:href="./badges/react.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="73.5" height="28" role="img" aria-label="JAVAFX">
-					<image href="./badges/javafx.svg"/>
+					<image xlink:href="./badges/javafx.svg"/>
 				</svg>
 			</div>
 		</div>
@@ -125,10 +125,10 @@
 			<p class="tec-title">LIBRARIES</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70.75" height="28" role="img" aria-label="JWT">
-					<image href="./badges/jwt.svg"/>
+					<image xlink:href="./badges/jwt.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70.75" height="28" role="img" aria-label="ZOD">
-					<image href="./badges/zod.svg"/>
+					<image xlink:href="./badges/zod.svg"/>
 				</svg>
 			</div>
 		</div>
@@ -137,7 +137,7 @@
 			<p class="tec-title">RUNTIME ENVIROMENT</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100.75" height="28" role="img" aria-label="NODE.JS">
-					<image href="./badges/nodejs.svg"/>
+					<image xlink:href="./badges/nodejs.svg"/>
 				</svg>
 			</div>
 		</div>
@@ -146,7 +146,7 @@
 			<p class="tec-title">ORM</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="117.25" height="28" role="img" aria-label="SEQUELIZE">
-					<image href="./badges/sequelize.svg"/>
+					<image xlink:href="./badges/sequelize.svg"/>
 				</svg>
 			</div>
 		</div>
@@ -155,7 +155,7 @@
 			<p class="tec-title">TESTS</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="28" role="img" aria-label="JEST">
-					<image href="./badges/jest.svg"/>
+					<image xlink:href="./badges/jest.svg"/>
 				</svg>
 			</div>
 		</div>
@@ -164,13 +164,13 @@
 			<p class="tec-title">DATABASES</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110.75" height="28" role="img" aria-label="MONGODB">
-					<image href="./badges/mongodb.svg"/>
+					<image xlink:href="./badges/mongodb.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="28" role="img" aria-label="POSTGRES">
-					<image href="./badges/postgres.svg"/>
+					<image xlink:href="./badges/postgres.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88.25" height="28" role="img" aria-label="MYSQL">
-					<image href="./badges/mysql.svg"/>
+					<image xlink:href="./badges/mysql.svg"/>
 				</svg>
 			</div>
 		</div>
@@ -179,10 +179,10 @@
 			<p class="tec-title">DESIGN</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87.25" height="28" role="img" aria-label="FIGMA">
-					<image href="./badges/figma.svg"/>
+					<image xlink:href="./badges/figma.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79" height="28" role="img" aria-label="GIMP">
-					<image href="./badges/gimp.svg"/>
+					<image xlink:href="./badges/gimp.svg"/>
 				</svg>
 			</div>
 		</div>
@@ -191,10 +191,10 @@
 			<p class="tec-title">GAME DEVELOPMENT</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.25" height="28" role="img" aria-label="UNITY">
-					<image href="./badges/unity.svg"/>
+					<image xlink:href="./badges/unity.svg"/>
 				</svg>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93.5" height="28" role="img" aria-label="RAYLIB">
-					<image href="./badges/raylib.svg"/>
+					<image xlink:href="./badges/raylib.svg"/>
 				</svg>
 			</div>
 		</div>
