@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=leonardo-luz&theme=onedark&row=5&column=5&margin-w=15&margin-h=15">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=leonardo-luz&row=5&column=5&margin-w=15&margin-h=15">
-    <img width="330px" alt="Github Trophies" />
+    <img alt="Github Trophies" />
   </picture>
 
 </div>
