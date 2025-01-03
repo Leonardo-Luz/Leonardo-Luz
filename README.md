@@ -24,10 +24,17 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false">
     <img height="132px" width="330px" alt="Github strak stats" />
   </picture>
-
   
   ## Some tecnologies that i use
 
   <img src="./src/svgs/tecnologies.svg" alt="tecnologies" />
+
+  ## Trophies
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=leonardo-luz&theme=onedark&row=5&column=5">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=leonardo-luz&row=5&column=5">
+    <img height="300px" width="330px" alt="Github Trophies" />
+  </picture>
 
 </div>
