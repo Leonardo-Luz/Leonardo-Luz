@@ -27,7 +27,7 @@
   
   ## Some tecnologies that i use
 
-  <img src="./src/svgs/tecnologies.svg" alt="tecnologies" />
+  <img src="./assets/tecnologies.svg" alt="tecnologies" />
 
   ## Trophies
 
