@@ -4,7 +4,7 @@
 
   ## Leonardo Luz Fachel
   
-  _Fullstack Developer_
+  _Software Engineer_
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.luz.fc@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-luz-fachel-697867286)
@@ -24,11 +24,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Luz&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true">
     <img height="132px" width="330px" alt="Github strak stats" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false">
-    <img height="132px" width="330px" alt="Github strak stats" />
-  </picture>
+
+  ## GitHub Streak
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false">
+  <img height="132px" width="330px" alt="Github strak stats" />
+</picture>
   
   ## Some tecnologies that i use
 
