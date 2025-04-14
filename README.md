@@ -15,6 +15,11 @@
   ## GitHub Stats
 
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-luz&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-luz&layout=compact&theme=default">
+    <img height="132px" width="330px" alt="Github strak stats" />
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Luz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Luz&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true">
     <img height="132px" width="330px" alt="Github strak stats" />
