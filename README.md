@@ -46,3 +46,11 @@
   </picture>
 
 </div>
+
+##
+
+<div align="right">
+  
+  ![](https://komarev.com/ghpvc/?username=leonardo-luz&style=for-the-badge)
+  
+</div>
