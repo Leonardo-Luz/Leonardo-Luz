@@ -37,28 +37,31 @@ _Software Engineer_
     <img height="132px" width="330px" alt="Github stats" />
   </picture>
   <picture>
-  <source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false"
-  >
-  <source
-  media="(prefers-color-scheme: light)"
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false"
-  >
-  <img height="132px" width="330px" alt="Github streak" />
+    <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false"
+    >
+    <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false"
+    >
+    <img height="132px" width="330px" alt="Github streak" />
   </picture>
+
+  <br/>
+
   <a href="https://github.com/leonardo-luz/portfolio" style="text-decoration:none">
-  <picture>
-  <source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio&theme=dark"
-  >
-  <source
-  media="(prefers-color-scheme: light)"
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio"
-  >
-  <img height="132px" width="330px" alt="Portfolio" />
-  </picture>
+    <picture>
+      <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio&theme=dark"
+      >
+      <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio"
+      >
+      <img height="132px" width="330px" alt="Portfolio" />
+    </picture>
   </a>
 </div>
   
