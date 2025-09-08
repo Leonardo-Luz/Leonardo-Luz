@@ -27,18 +27,6 @@ _Software Engineer_
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio&theme=dark"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio"
-  >
-  <img height="132px" width="330px" alt="Github stats" />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Luz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
   >
   <source
@@ -46,6 +34,20 @@ _Software Engineer_
     srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Luz&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
   >
   <img height="132px" width="330px" alt="Github stats" />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio&theme=dark"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio"
+  >
+    <a href="https://github.com/leonardo-luz/portfolio">
+      <img height="132px" width="330px" alt="Portfolio" />
+    </a>
 </picture>
 <picture>
   <source
@@ -73,7 +75,7 @@ _Software Engineer_
 
 </div>
 
----
+##
 
 <div align="right">
 
