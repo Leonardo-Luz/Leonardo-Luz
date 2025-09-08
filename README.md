@@ -36,7 +36,19 @@ _Software Engineer_
   <img height="132px" width="330px" alt="Github stats" />
 </picture>
 
-<a href="https://github.com/leonardo-luz/portfolio">
+<picture>
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false"
+  >
+  <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false"
+  >
+  <img height="132px" width="330px" alt="Github streak" />
+</picture>
+
+<a href="https://github.com/leonardo-luz/portfolio" style="text-decoration:none">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -49,17 +61,6 @@ _Software Engineer_
     <img height="132px" width="330px" alt="Portfolio" />
   </picture>
 </a>
-<picture>
-  <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false"
-  >
-  <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false"
-  >
-  <img height="132px" width="330px" alt="Github streak" />
-</picture>
   
   ## Some tecnologies that i use
 
