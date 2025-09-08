@@ -13,54 +13,54 @@ _Software Engineer_
 
 ## GitHub Stats
 
-<picture>
-  <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-luz&layout=compact&theme=dark"
-  >
-  <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-luz&layout=compact&theme=default"
-  >
-  <img height="132px" width="330px" alt="Github top langs" />
-</picture>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Luz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Luz&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
-  >
-  <img height="132px" width="330px" alt="Github stats" />
-</picture>
-
-<picture>
-  <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false"
-  >
-  <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false"
-  >
-  <img height="132px" width="330px" alt="Github streak" />
-</picture>
-
-<a href="https://github.com/leonardo-luz/portfolio" style="text-decoration:none">
+<div style="flex flex-wrap">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-luz&layout=compact&theme=dark"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-luz&layout=compact&theme=default"
     >
-    <img height="132px" width="330px" alt="Portfolio" />
+    <img height="132px" width="330px" alt="Github top langs" />
   </picture>
-</a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Luz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Luz&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
+    >
+    <img height="132px" width="330px" alt="Github stats" />
+  </picture>
+  <picture>
+  <source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false"
+  >
+  <source
+  media="(prefers-color-scheme: light)"
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false"
+  >
+  <img height="132px" width="330px" alt="Github streak" />
+  </picture>
+  <a href="https://github.com/leonardo-luz/portfolio" style="text-decoration:none">
+  <picture>
+  <source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio&theme=dark"
+  >
+  <source
+  media="(prefers-color-scheme: light)"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio"
+  >
+  <img height="132px" width="330px" alt="Portfolio" />
+  </picture>
+  </a>
+</div>
   
   ## Some tecnologies that i use
 
