@@ -54,6 +54,7 @@ _Software Engineer_
 
 <br/>
 
+<!-- Portfolio
 <a href="https://github.com/leonardo-luz/portfolio" style="text-decoration:none">
   <picture>
     <source
@@ -67,6 +68,7 @@ _Software Engineer_
     <img height="132px" width="330px" alt="Portfolio" />
   </picture>
 </a>
+-->
   
   ## Some tecnologies that i use
 
