@@ -53,15 +53,6 @@
 			}
 		</style>
 		<div class="container">
-			<p class="tec-title">EDITORS</p>
-			<div class="tec-container">
-				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.5" height="28" role="img" aria-label="NEOVIM">
-					<image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iOTcuNSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJORU9WSU0iPgogIDx0aXRsZT5ORU9WSU08L3RpdGxlPgogIDxnIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyI+CiAgICA8cmVjdCB3aWR0aD0iOTcuNSIgaGVpZ2h0PSIyOCIgZmlsbD0iIzU3YTE0MyIvPgogIDwvZz4KICA8ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPgogICAgPGltYWdlIHg9IjkiIHk9IjciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgeGxpbms6aHJlZj0iZGF0YTppbWFnZS9zdmcreG1sO2Jhc2U2NCxQSE4yWnlCbWFXeHNQU0ozYUdsMFpTSWdjbTlzWlQwaWFXMW5JaUIyYVdWM1FtOTRQU0l3SURBZ01qUWdNalFpSUhodGJHNXpQU0pvZEhSd09pOHZkM2QzTG5jekxtOXlaeTh5TURBd0wzTjJaeUkrUEhScGRHeGxQazVsYjNacGJUd3ZkR2wwYkdVK1BIQmhkR2dnWkQwaVRUSXVNakUwSURRdU9UVTBkakV6TGpZeE5VdzNMalkxTlNBeU5GWXhNQzR6TVRSTU15NHpNVElnTXk0NE5EVWdNaTR5TVRRZ05DNDVOVFI2YlRRdU9UazVJREUzTGprNGJDMDBMalUxTnkwMExqVTBPRlkxTGpFek5td3VOVGt0TGpVNU5pQXpMamsyTnlBMUxqa3dPSFl4TWk0ME9EVjZiVEUwTGpVM015MDBMalExTjJ3dExqZzJNaTQ1TXpjdE5DNHlOQzAyTGpNM05sWXdiRFV1TURZNElEVXVNRGt5TGpBek5DQXhNeTR6T0RWNlRUY3VORE14TGpBd01Xd3hNaTQ1T1RnZ01Ua3VPRE0xTFRNdU5qTTNJRE11TmpNM1RETXVOemczSURNdU5qZ3pJRGN1TkRNZ01Ib2lMejQ4TDNOMlp6ND0iLz4KICAgIDx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSI1ODcuNSIgeT0iMTc1IiB0ZXh0TGVuZ3RoPSI1MzUiIGZpbGw9IiNmZmYiIGZvbnQtd2VpZ2h0PSJib2xkIj5ORU9WSU08L3RleHQ+CiAgPC9nPgo8L3N2Zz4K"/>
-				</svg>
-			</div>
-		</div>
-			
-		<div class="container">
 			<p class="tec-title">PROGRAMMING LANGUAGES</p>
 			<div class="tec-container">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69.75" height="28" role="img" aria-label="LUA">
