@@ -10,10 +10,10 @@ _Software Engineer_
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-luz-fachel)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/leonardo_lf)
 [![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dev_luz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat-square&logo=libreoffice&logoColor=white)](https://portfolio-leonardo-luz.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=libreoffice&logoColor=white)](https://portfolio-leonardo-luz.vercel.app/)
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/Leonardo-Luz/dotfiles)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://github.com/Leonardo-Luz/dotfiles)
 
 ## GitHub Stats
 
