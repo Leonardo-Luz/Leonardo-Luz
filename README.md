@@ -44,45 +44,29 @@ _Software Engineer_
 
 ##
 
-<!-- <picture> -->
-<!--   <source -->
-<!--   media="(prefers-color-scheme: dark)" -->
-<!--   srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false" -->
-<!--   > -->
-<!--   <source -->
-<!--   media="(prefers-color-scheme: light)" -->
-<!--   srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false" -->
-<!--   > -->
-<!--   <img height="132px" width="330px" alt="Github streak" /> -->
-<!-- </picture> -->
+<picture>
+  <source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=dark&hide_border=false"
+  >
+  <source
+  media="(prefers-color-scheme: light)"
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Luz&theme=default&hide_border=false"
+  >
+  <img height="132px" width="330px" alt="Github streak" />
+</picture>
 
-<!-- Portfolio
-<a href="https://github.com/leonardo-luz/portfolio" style="text-decoration:none">
-  <picture>
-    <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio&theme=dark"
-    >
-    <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-luz&repo=portfolio"
-    >
-    <img height="132px" width="330px" alt="Portfolio" />
-  </picture>
-</a>
--->
-  
-  ## Some tecnologies that i use
+## Some tecnologies that i use
 
-  <img src="./assets/tecnologies.svg" alt="tecnologies" />
+<img src="./assets/tecnologies.svg" alt="tecnologies" />
 
-  ## Trophies
+## Trophies
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=leonardo-luz&theme=onedark&row=5&column=5&margin-w=15&margin-h=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=leonardo-luz&row=5&column=5&margin-w=15&margin-h=15">
-    <img alt="Github Trophies" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=leonardo-luz&theme=onedark&row=5&column=5&margin-w=15&margin-h=15">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=leonardo-luz&row=5&column=5&margin-w=15&margin-h=15">
+  <img alt="Github Trophies" />
+</picture>
 
 </div>
 
