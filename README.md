@@ -7,7 +7,7 @@
 _Software Engineer_
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.luz.fc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-luz-fachel)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-luz-fachel)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/leonardo_lf)
 [![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dev_luz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=libreoffice&logoColor=white)](https://portfolio-leonardo-luz.vercel.app/)
